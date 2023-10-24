@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1698029102 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\alphabet.c
+
+1697978499 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\array_average.c
+
+1698029119 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\capital.c
+
+1697974003 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\char.c
+
+1698029198 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\colored_menu.c
+	"main.h"
+
+1697978448 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\cpy_string.c
+
+1698028632 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\frequency.c
+
+1698028632 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\fullname.c
+
+1698028632 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\matrix.c
+	<stdio.h>
+
+1697969512 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\string.c
+
+1698028620 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\string_length.c
+
+1697978493 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\ascii.c
+
+1698029184 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\main.c
+	"main.h"
+
+1698029171 c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_3\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<ctype.h>
+
+1698029102 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\alphabet.c
+
+1698029250 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\array_average.c
+	"array.h"
+
+1697973401 c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\array.h
+
+1697978493 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\ascii.c
+
+1698029119 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\capital.c
+
+1697974003 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\char.c
+
+1698029198 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\colored_menu.c
+	"main.h"
+
+1698029171 c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<ctype.h>
+
+1697978448 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\cpy_string.c
+
+1698028632 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\frequency.c
+
+1698028632 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\fullname.c
+
+1698028632 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\matrix.c
+	<stdio.h>
+
+1698028620 source:c:\users\ibrah\onedrive\desktop\c_lab_3\c_lab_4\string_length.c
+
